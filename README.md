@@ -11,11 +11,7 @@ It has a visible property that manages whether the child is included in the widg
 ## Offset Widget: 
 Offset widget lays the child out as if it was in the widget tree, but doesn’t paint anything. The child widget neither has any interactivity nor it takes any space.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
