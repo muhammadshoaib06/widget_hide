@@ -1,5 +1,7 @@
 # To Show or Hide Flutter Widget
 
+- [My LinkedIn Profile](https://www.linkedin.com/in/muhammad-shoaib-flutter-dev/)
+
 There are three types to hide or show Flutter Widget. 
 
 ## Opacity Widget: 
